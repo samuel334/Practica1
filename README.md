@@ -1,4 +1,4 @@
-# Práctica1
+# Práctica 1
 Práctica1 - Algoritmos Genéticos
 
 Curso: Algoritmos Genéticos
