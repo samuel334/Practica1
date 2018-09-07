@@ -1,2 +1,2 @@
-# Practica1
-Practica1 - Algoritmos Genéticos
+# Práctica1
+Práctica1 - Algoritmos Genéticos
