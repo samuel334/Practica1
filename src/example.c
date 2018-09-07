@@ -24,7 +24,7 @@ int main (){
 	int i, j, lower = 0, upper = 10000;
 	float y[10], x[10];
 	strcpy(text, "A[10] = {");
-	/*genera 10 numeros aleatorios entre 1 a 10000*/
+	/*genera 10 numeros aleatorios entre 0 a 10000*/
 	srand(time(0));
 	for(i = 0;i<10;++i){
 	  y[i] = (float)(rand() % (upper - lower + 1)) + lower;
